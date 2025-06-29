@@ -305,7 +305,9 @@ section {
     }
 
     .navlist {
-        width: 100vw;
+        width: 90vw;
+        left: 5vw;
+        right: auto;
         height: 100vh;
         top: 60px;
         padding: 10px 0;
